@@ -1,5 +1,8 @@
 # Journal des versions — Game Hub (Duo Drift, DavidSimulator)
 
+## 2.42 — 24 octobre 2026
+- **Tête de Calcul** — Le market making de The Candidate est plus clair : un guide « Comment ça marche ? » sous les cotations, les dés déjà vus rappelés avant chaque prix, ce que chaque deal veut dire, et le détail de ton P&L à la correction.
+
 ## 2.41 — 24 octobre 2026
 - **Outbreak** — Mode Défense rééquilibré : les tourelles ne font plus tout le travail.
   - Les tourelles posées dans le fort tirent moins vite, moins fort et moins loin, coûtent 34 de ferraille, durent deux vagues, et on ne peut en avoir que deux à la fois.
